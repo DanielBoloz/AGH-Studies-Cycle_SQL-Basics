@@ -1,3 +1,6 @@
+-- During the classes, I was using the database "portal__mammals" which represents a long-term ecological study hat has been monitoring small mammal community 
+-- responses to climate and experimental manipulation of dominant rodent species since 1977 in southeastern Arizona
+
 --1. Query returns columns "weight" and "sex" from a table "surveys".
 SELECT weight, sex
 FROM surveys;
